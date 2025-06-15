@@ -1,0 +1,6 @@
+en:
+  js:
+    lottery:
+      button: "🎁 抽奖"
+      already_drawn: "已开奖"
+      draw_time: "开奖时间"
